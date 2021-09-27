@@ -1,0 +1,16 @@
+{
+    "source": "https://zetflix.life/",
+    "dist": {
+        "android": {
+            "file": "https://zetflix.app/releases/ZETFLIX-0.0.1.apk",
+            "download": "https://zetflix.app/download/android",
+            "version": "0.0.1"
+        },
+        "windows": {
+            "file_x64": "https://zetflix.app/releases/ZETFLIX-x64-0.0.1.msi",
+            "file_x86": "https://zetflix.app/releases/ZETFLIX-x86-0.0.1.msi",
+            "download": "https://zetflix.app/download/windows",
+            "version": "0.0.1"
+        }
+    }
+}
